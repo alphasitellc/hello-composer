@@ -1,6 +1,6 @@
 <?php
 
-namespace alphasite\HelloWorld;
+namespace alphasitellc\HelloWorld;
 
 class Index
 {
