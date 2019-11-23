@@ -1,0 +1,17 @@
+{
+    "name": "alphasite/hello-composer",
+    "description": "Hello World with composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Galactica",
+            "email": "rafael@my-software-engineer.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"alphasite\\HelloWorld\\": "src/"}
+    },
+    "require": {}
+}
